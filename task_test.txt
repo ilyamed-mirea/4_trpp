@@ -1,1 +1,2 @@
 Hello! Im txt file
+Edited in branch 2
